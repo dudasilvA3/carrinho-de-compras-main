@@ -1,6 +1,6 @@
 // Lista de produtos disponíveis para compra
 const products = [
-    { id: 1, name: ' kiwi',img:'img/img.Kiwi.jpeg', price: 29.99 },
+    { id: 1, name: ' kiwi',img:'img/img.kiwi.jpeg', price: 29.99 },
     { id: 2, name: 'abacate',img:'img/abacate.jpg' , price: 49.99 },
     { id: 3, name: 'banana',img:'img/banana.avif', price: 19.99 },
     { id: 4, name: 'morango',img:'img/morango.jpg' , price: 89.99 },
